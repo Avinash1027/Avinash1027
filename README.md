@@ -1,7 +1,21 @@
-<div style="width:100%;height:0;padding-bottom:126%;position:relative;"><iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>
+ <div id="badges">
+  <a href="https://leetcode.com/u/2023B1541027/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LinkedIn Badge"/>
+  </a>
+  <a href="www.linkedin.com/in/avinash-mishra-568216275">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIN Badge"/>
+  </a>
+  <a href="https://www.codechef.com/users/avinash1027">
+    <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="CodeChef Badge"/>
+  </a>
+</div>
+ 
+</div>
 
 
-## Hi there 👋
+
 
 <!--
 **Avinash1027/Avinash1027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
