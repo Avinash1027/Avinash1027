@@ -46,9 +46,9 @@ Hi! I'm Avinash Mishra, a passionate Frontend Developer and Data Enthusiast with
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Avinash1027?theme=dark&font=Brygada%201918&ext=activity)
 ## 🚀 Projects
 ---
-| Project Name          | Description                                                                                      | Progress Bar |
-|-----------------------|--------------------------------------------------------------------------------------------------|--------------|
-| [*Restaurant website(DELI Cafe)](https://github.com/Avinash1027/Deli-Cafe-Website) | A sleek and responsive restayrant website showcasing front-end expertise, built using J and *HTML/CSS*. | ![HTML](https://img.shields.io/badge/HTML-57.9%25-blue)![Python](https://img.shields.io/badge/CSS-42.1%25-brightgreen)|
+| Project Name          | Description                                                                                          |       Progress Bar      |
+|-----------------------|------------------------------------------------------------------------------------------------------|-------------------------|
+| [*Restaurant website(DELI Cafe)](https://github.com/Avinash1027/Deli-Cafe-Website) | A sleek and responsive restayrant website showcasing front-end expertise, built using JavaScript and *HTML/CSS*. | ![HTML](https://img.shields.io/badge/HTML-58%25-blue)![CSS](https://img.shields.io/badge/CSS-42%25-brightgreen)|
 
 ---
 
