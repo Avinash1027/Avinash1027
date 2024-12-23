@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Avinash+Mishra;I'm+a+Data+Analyst;And+A+FrontEnd+Developer;Loves+To+Build+Projects;">
-</p>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>
  <div id="badges">
@@ -13,14 +11,14 @@
   <a href="https://www.codechef.com/users/avinash1027">
     <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="CodeChef Badge"/>
   </a>
-<h1 align="center">Hi There 👋, I'm Avinash Misrha</h1>
-<h3 align="center">A passionate Frontend Developer & Data Analyst</h3>
-
-# Welcome to My GitHub Profile! 👨‍💻
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Avinash+Mishra;I'm+a+Passionate+Data+Analyst;And+A+FrontEnd+Developer;Loves+To+Build+Projects;">
+</p>
+   
 ---
+   
 
-👋 About Me
+# 👋 About Me
 
 Hi! I'm Avinash Mishra, a passionate Frontend Developer and Data Enthusiast with a love for crafting user-friendly interfaces and analyzing data to uncover insights. I thrive on solving challenging problems and staying updated with the latest technologies.
 
@@ -32,7 +30,7 @@ Hi! I'm Avinash Mishra, a passionate Frontend Developer and Data Enthusiast with
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>&nbsp;
@@ -46,18 +44,18 @@ Hi! I'm Avinash Mishra, a passionate Frontend Developer and Data Enthusiast with
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
 | Project Name          | Description                                                                                          |       Progress Bar      |
 |-----------------------|------------------------------------------------------------------------------------------------------|-------------------------|
 | [*Restaurant website(DELI Cafe)](https://github.com/Avinash1027/Deli-Cafe-Website) | A sleek and responsive restayrant website showcasing front-end expertise, built using JavaScript and *HTML/CSS*. | ![HTML](https://img.shields.io/badge/HTML-58%25-blue)![CSS](https://img.shields.io/badge/CSS-42%25-brightgreen)|
 
 ---
-## 📊 LeetCode Stats
+# 📊 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Avinash1027?theme=dark&font=Brygada%201918&ext=activity)
 
 ---
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Avinash1027&show_icons=true&theme=react" alt="GitHub Stats" width="48%"/>
