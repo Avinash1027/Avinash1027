@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Avinash+Mishra;I+Love+Coding;+Front+End+Developer;Loves+To+Build+Projects;A+Data+Analyst;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Avinash+Mishra;I'm+a+Data+Analyst;And +A+FrontEnd+Developer;Loves+To+Build+Projects;">
 </p>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>
