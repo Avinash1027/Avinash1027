@@ -24,7 +24,7 @@ Hi! I'm Avinash Mishra, a passionate Frontend Developer and Data Enthusiast with
 
 🌱 Currently Exploring: Advanced front-end frameworks, Machine Learning applications, and Competitive Programming strategies.
 
-🎗️ Goals: Develop impactful projects that combine web development and data analysis, participate in hackathons,contribute to open-source communities, and prepare for *Google Summer of Code (GSoC)-2025*.
+🎗️ Goals: Develop impactful projects that combine web development and data analysis, participate in hackathons,contribute to open-source communities, and prepare for *Google Summer of Code (GSoC)-2026*.
 
 📚 Interests: Frontend Development, Machine Learning, Data Visualization, and AI Engineer.
 
