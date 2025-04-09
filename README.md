@@ -50,7 +50,7 @@ Hi! I'm Avinash Mishra, a passionate Frontend Developer and Data Enthusiast with
 
 | Project Name          | Description                                                                                          |       Progress Bar      |
 |-----------------------|------------------------------------------------------------------------------------------------------|-------------------------|
-| [*Restaurant website(DELI Cafe)](https://github.com/Avinash1027/Deli-Cafe-Website) | A sleek and responsive restayrant website showcasing front-end expertise, built using JavaScript and *HTML/CSS*. | ![HTML](https://img.shields.io/badge/HTML-58%25-blue)![CSS](https://img.shields.io/badge/CSS-42%25-brightgreen)|
+| [*deli-cafe-frontend](https://github.com/Avinash1027/deli-cafe-frontend.git) | A sleek and responsive restayrant website showcasing front-end expertise, built using JavaScript and *HTML/CSS*. | ![HTML](https://img.shields.io/badge/HTML-58%25-blue)![CSS](https://img.shields.io/badge/CSS-42%25-brightgreen)|
 
 ---
 # 📊 LeetCode Stats
