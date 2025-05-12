@@ -50,7 +50,8 @@ Hi! I'm Avinash Mishra, a passionate Frontend Developer and Data Enthusiast with
 
 | Project Name          | Description                                                                                          |       Progress Bar      |
 |-----------------------|------------------------------------------------------------------------------------------------------|-------------------------|
-| [*deli-cafe-frontend](https://github.com/Avinash1027/deli-cafe-frontend.git) | A sleek and responsive restayrant website showcasing front-end expertise, built using JavaScript and *HTML/CSS*. | ![HTML](https://img.shields.io/badge/HTML-58%25-blue)![CSS](https://img.shields.io/badge/CSS-42%25-brightgreen)|
+| [deli-cafe-frontend](https://github.com/Avinash1027/deli-cafe-frontend.git) | A sleek and responsive restayrant website showcasing front-end expertise, built using JavaScript and *HTML/CSS*. | ![HTML](https://img.shields.io/badge/HTML-58%25-blue)![CSS](https://img.shields.io/badge/CSS-42%25-brightgreen)|
+| [Health-Bridge](https://github.com/Avinash1027/Health-Bridge) | An RAG-powered platform delivering real-time cancer insights, empowering underserved communities with accessible, data-driven health information. | ![TypeScript]( https://img.shields.io/badge/TypeScript-59%25-blue)![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-28%25-brightgreen)![Python](https://img.shields.io/badge/Python-11%25-brightgreen)![CSS](https://img.shields.io/badge/CSS-1%25-brightgreen)|
 
 ---
 # 📊 LeetCode Stats
