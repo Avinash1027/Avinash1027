@@ -26,7 +26,7 @@ Hi! I'm Avinash Mishra, a passionate Frontend Developer and Data Enthusiast with
 
 🎗️ Goals: Develop impactful projects that combine Machine Learning and MLOps, participate in hackathons,contribute to open-source communities, and learn to deploy and manage ML projects.
 
-📚 Interests: Frontend Development, Machine Learning, Data Analysis, MLOps and AI Engineering.
+📚 Interests: Machine Learning, Data Analysis, MLOps and AI Engineering.
 
 ---
 
