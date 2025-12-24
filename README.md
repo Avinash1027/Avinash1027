@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="CodeChef Badge"/>
   </a>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=fffF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Avinash+Mishra;I'm+a+Data+Analyst;And+A+FrontEnd+Developer;I+Love+Building+Projects;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=fffF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Avinash+Mishra;I'm+a+Data+Science+Enthusiast;I+Love+Building+Projects;">
 </p>
    
 ---
