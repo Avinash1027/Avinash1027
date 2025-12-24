@@ -60,8 +60,8 @@ Hi! I'm Avinash Mishra, Data Enthusiast with a love for analyzing data to uncove
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avinash1027&show_icons=true&theme=react" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash1027&layout=compact&theme=react" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Avinash1027&show_icons=true&theme=react&cache_seconds=86400" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash1027&layout=compact&theme=react&cache_seconds=86400" alt="Top Languages" width="48%"/>
 </p>
 
 <p align="center">
