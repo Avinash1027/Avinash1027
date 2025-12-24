@@ -20,7 +20,7 @@
 
 # 👋 About Me
 
-Hi! I'm Avinash Mishra, a passionate Frontend Developer and Data Enthusiast with a love for crafting user-friendly interfaces and analyzing data to uncover insights. I thrive on solving challenging problems and staying updated with the latest technologies.
+Hi! I'm Avinash Mishra, Data Enthusiast with a love for analyzing data to uncover insights. I thrive on solving challenging problems and staying updated with the latest technologies.
 
 🌱 Currently Exploring: Machine Learning applications, MLOps and Competitive Programming strategies.
 
